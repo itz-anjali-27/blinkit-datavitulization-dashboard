@@ -42,8 +42,7 @@
 
 14. How do sales compare between different outlet sizes (High, Medium, Small)?
 
-    Key Insights :-
+15. Which item category contributes the least to total sales?
 
-
-16. Which item category contributes the least to total sales?
+    # Key Insights :-
 
