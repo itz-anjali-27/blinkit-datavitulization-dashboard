@@ -64,53 +64,53 @@
 
 5. Sales by Outlet Size:
 
-High: $507.9K
-
-Medium: $249.0K
-
-Small: $444.8K
-
- Highest contribution: High-sized outlets
+    High: $507.9K
+    
+    Medium: $249.0K
+    
+    Small: $444.8K
+    
+     Highest contribution: High-sized outlets
 
 
 6. Sales by Outlet Type:
 
-Grocery Store: $151.9K
-
-Supermarket Type3: $130.7K
-
-Supermarket Type2: $131.5K
-
-Supermarket Type1: $787K (Highest)
+    Grocery Store: $151.9K
+    
+    Supermarket Type3: $130.7K
+    
+    Supermarket Type2: $131.5K
+    
+    Supermarket Type1: $787K (Highest)
 
 
 7. Fat Content Distribution:
 
-Regular: 65%
-
-Low Fat: 35%
+    Regular: 65%
+    
+    Low Fat: 35%
 
 8. Top-Selling Item Types:
 
-Fruits: 178K
-
-Snacks: 175K
-
-Household: 136K
+   Fruits: 178K
+     
+   Snacks: 175K
+     
+   Household: 136K
 
 
 9. Sales Trend by Year (Outlet Establishment):
 
-Peak in 2018: $204.5K
+    Peak in 2018: $204.5K
 
-Consistent performance across years.
+    Consistent performance across years.
 
 
 10. Tier-wise Outlet Sales:
 
-Tier 3: Highest fat-based sales (Regular + Low Fat)
+    Tier 3: Highest fat-based sales (Regular + Low Fat)
 
-Tier 1: Lowest
+    Tier 1: Lowest
 
 
 
