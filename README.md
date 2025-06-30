@@ -1,5 +1,6 @@
 # blinkit-analysis
-🔍 KPI-Based Questions
+
+# Questions(KPI's)
 
 1. What is the total sales generated across all outlets?
 
