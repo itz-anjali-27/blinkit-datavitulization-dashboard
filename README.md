@@ -40,9 +40,11 @@
 
 13. What is the trend in outlet establishment over the years?
 
+  Keys Insights :-
 
-14. How do sales compare between different outlet sizes (High, Medium, Small)?
+
+15. How do sales compare between different outlet sizes (High, Medium, Small)?
 
 
-15. Which item category contributes the least to total sales?
+16. Which item category contributes the least to total sales?
 
